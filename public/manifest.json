@@ -1,0 +1,15 @@
+{
+  "name": "World Cup 2026 Hub",
+  "short_name": "WC2026 Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050817",
+  "theme_color": "#1d2939",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
